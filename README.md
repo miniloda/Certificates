@@ -7,3 +7,4 @@ Coursera, DataCamp, and other MOOC
 - Google Data Analytics
 - DeepLearning.AI Machine Learning Specialization
 - DeepLeaning.AI Tensorflow AI Developer
+- Google IT Automation with Python
